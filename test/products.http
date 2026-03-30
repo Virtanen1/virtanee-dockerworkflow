@@ -1,0 +1,6 @@
+@apiUrl = 
+GET {{apiUrl}}
+
+GET {{apiUrl}}/1002
+
+### create a new product
